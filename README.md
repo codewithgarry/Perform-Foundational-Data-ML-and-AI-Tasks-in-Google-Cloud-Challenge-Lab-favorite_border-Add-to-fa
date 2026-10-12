@@ -1,5 +1,7 @@
 # Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab (GSP323)
 
+> 📦 **Archived.** This lab is now maintained in **[google-cloud-skills-boost-notes](https://github.com/codewithgarry/google-cloud-skills-boost-notes/tree/main/ml-ai/gsp323-perform-foundational-data-ml-and-ai-tasks)** with my other Google Cloud lab notes. This repository is read-only.
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Lab](https://img.shields.io/badge/Lab-GSP323-34A853)
 ![ML APIs](https://img.shields.io/badge/Topic-ML_APIs-orange)
